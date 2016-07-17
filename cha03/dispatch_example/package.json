@@ -1,0 +1,1 @@
+{"name":"link","version":"1.2.0","main":"dispatch.js","dependencies":{"stdlib.core.web.server.opx":"1.2.0","opabsl.opp":"1.2.0","opa-js-runtime-cps":"1.2.0"}}
